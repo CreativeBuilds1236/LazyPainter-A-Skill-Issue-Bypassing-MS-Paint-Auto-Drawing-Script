@@ -4,6 +4,7 @@ Have you ever wanted to draw like Picasso, but you have extensive **skill issues
 
 **Fear not!** Lazy Painter is your all-in-one solution. Why spend decades mastering the brush when you can spend five seconds letting a Python script take your mouse hostage? 
 
+<img width="1916" height="1017" alt="Image" src="https://github.com/user-attachments/assets/b81ff49a-a30e-47a0-80c5-0c75158cb569" />
 Automation > Talent. 🎨🤖
 
 ---
